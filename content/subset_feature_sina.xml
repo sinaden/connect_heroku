@@ -38,4 +38,4 @@
     
     
     
-    <Subset_Feature_Dataset><Subset_1><ID>1</ID><Name>test111</Name><LastUpdate>test111</LastUpdate><Modality>test111</Modality><Format>test111</Format><Size>test111</Size><Parent>test111</Parent><Purpose>test111</Purpose><Link>test111</Link><Covmat>test111</Covmat><Modsys>test111</Modsys><Features /></Subset_1></Subset_Feature_Dataset></root>
+    <Subset_Feature_Dataset><Subset_1><ID>1</ID><Name>test1</Name><LastUpdate>test1</LastUpdate><Modality>test1</Modality><Format>test1</Format><Size>test1</Size><Parent>test1</Parent><Purpose>test1</Purpose><Link>test1</Link><Covmat>test1</Covmat><Modsys>test1</Modsys><Features /></Subset_1><Subset_2><ID>2</ID><Name>test2</Name><LastUpdate>test2</LastUpdate><Modality>test2</Modality><Format>test2</Format><Size>test2</Size><Parent>test2</Parent><Purpose>test2</Purpose><Link>test2</Link><Covmat>test2</Covmat><Modsys>test2</Modsys><Features /></Subset_2></Subset_Feature_Dataset></root>
