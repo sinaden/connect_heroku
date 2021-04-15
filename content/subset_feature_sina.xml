@@ -38,50 +38,50 @@
     <Subset_1>
       <ID>1</ID>
       <Name>test</Name>
-      <LastUpdate>test</LastUpdate>
-      <Modality>test</Modality>
-      <Format>test</Format>
-      <Size>test</Size>
-      <Parent>test</Parent>
-      <Purpose>test</Purpose>
-      <Link>test</Link>
-      <Covmat>test</Covmat>
-      <Modsys>test</Modsys>
+      <LastUpdate>12-12-2020</LastUpdate>
+      <Modality>x</Modality>
+      <Format>c</Format>
+      <Size />
+      <Parent />
+      <Purpose>Not sure</Purpose>
+      <Link />
+      <Covmat />
+      <Modsys />
       <Features />
     </Subset_1>
     <Subset_2>
       <ID>2</ID>
-      <Name>stewe</Name>
-      <LastUpdate>stewe</LastUpdate>
-      <Modality>stewe</Modality>
-      <Format>stewe</Format>
-      <Size>stewe</Size>
-      <Parent>stewe</Parent>
-      <Purpose>stewe</Purpose>
-      <Link>stewe</Link>
-      <Covmat>stewe</Covmat>
-      <Modsys>stewe</Modsys>
+      <Name>second</Name>
+      <LastUpdate>12-12-2021</LastUpdate>
+      <Modality>12</Modality>
+      <Format />
+      <Size />
+      <Parent />
+      <Purpose />
+      <Link>github.com</Link>
+      <Covmat />
+      <Modsys>no</Modsys>
       <Features>
         <Feature_1>
           <ID>1</ID>
           <Subset>2</Subset>
-          <Introduction>2</Introduction>
-          <Name>2</Name>
-          <Values>2</Values>
-          <Meaning_NA_NULL_NONE_OTHER>2</Meaning_NA_NULL_NONE_OTHER>
-          <Meaning_Zero>2</Meaning_Zero>
-          <Meaning_BlankVoid>2</Meaning_BlankVoid>
-          <Sparsity>2</Sparsity>
-          <Mean>2</Mean>
-          <Std>2</Std>
-          <Modality>2</Modality>
-          <Median>2</Median>
-          <IQR>2</IQR>
-          <ParentIDs>2</ParentIDs>
-          <Unit>2</Unit>
-          <Definition>2</Definition>
-          <Purpose>2</Purpose>
-          <Encoding>2</Encoding>
+          <Introduction>10-10-2012</Introduction>
+          <Name>feature1</Name>
+          <Values>int</Values>
+          <Meaning_NA_NULL_NONE_OTHER />
+          <Meaning_Zero />
+          <Meaning_BlankVoid />
+          <Sparsity />
+          <Mean />
+          <Std />
+          <Modality>test</Modality>
+          <Median>test</Median>
+          <IQR>test</IQR>
+          <ParentIDs>test</ParentIDs>
+          <Unit>test</Unit>
+          <Definition>test</Definition>
+          <Purpose>test</Purpose>
+          <Encoding>test</Encoding>
         </Feature_1>
       </Features>
     </Subset_2>
