@@ -17,10 +17,10 @@
                 <M3 />
             </messages>
             <answers>
-                <A0>1</A0>
-                <A1>2</A1>
-                <A2>3</A2>
-                <A3>4</A3>
+                <A0>dsferf</A0>
+                <A1>efef</A1>
+                <A2>ef</A2>
+                <A3 />
             </answers>
         </category_1>
         <category_2>
@@ -66,7 +66,7 @@
                 <M16 />
             </messages>
             <answers>
-                <A0>5</A0>
+                <A0 />
                 <A1 />
                 <A2 />
                 <A3 />
