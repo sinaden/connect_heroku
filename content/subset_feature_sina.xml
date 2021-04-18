@@ -37,53 +37,45 @@
   <Subset_Feature_Dataset>
     <Subset_1>
       <ID>1</ID>
-      <Name>test</Name>
-      <LastUpdate>12-12-2020</LastUpdate>
-      <Modality>x</Modality>
-      <Format>c</Format>
+      <Name>2</Name>
+      <LastUpdate />
+      <Modality />
+      <Format />
       <Size />
       <Parent />
-      <Purpose>Not sure</Purpose>
+      <Purpose />
       <Link />
       <Covmat />
       <Modsys />
       <Features />
     </Subset_1>
-    <Subset_2>
-      <ID>2</ID>
-      <Name>second</Name>
-      <LastUpdate>12-12-2021</LastUpdate>
-      <Modality>12</Modality>
+    <Subset_123123>
+      <ID>123123</ID>
+      <Name>123123123</Name>
+      <LastUpdate />
+      <Modality />
       <Format />
       <Size />
       <Parent />
       <Purpose />
-      <Link>github.com</Link>
+      <Link />
       <Covmat />
-      <Modsys>no</Modsys>
-      <Features>
-        <Feature_1>
-          <ID>1</ID>
-          <Subset>2</Subset>
-          <Introduction>10-10-2012</Introduction>
-          <Name>feature1</Name>
-          <Values>int</Values>
-          <Meaning_NA_NULL_NONE_OTHER />
-          <Meaning_Zero />
-          <Meaning_BlankVoid />
-          <Sparsity />
-          <Mean />
-          <Std />
-          <Modality>test</Modality>
-          <Median>test</Median>
-          <IQR>test</IQR>
-          <ParentIDs>test</ParentIDs>
-          <Unit>test</Unit>
-          <Definition>test</Definition>
-          <Purpose>test</Purpose>
-          <Encoding>test</Encoding>
-        </Feature_1>
-      </Features>
-    </Subset_2>
+      <Modsys />
+      <Features />
+    </Subset_123123>
+    <Subset_123123123123123123123>
+      <ID>123123123123123123123</ID>
+      <Name>12312333333333333333</Name>
+      <LastUpdate />
+      <Modality />
+      <Format />
+      <Size />
+      <Parent />
+      <Purpose />
+      <Link />
+      <Covmat />
+      <Modsys />
+      <Features />
+    </Subset_123123123123123123123>
   </Subset_Feature_Dataset>
 </root>
