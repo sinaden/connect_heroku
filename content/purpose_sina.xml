@@ -17,10 +17,10 @@
                 <M3 />
             </messages>
             <answers>
-                <A0>Predicate 12312 3</A0>
-                <A1>You should edit this</A1>
-                <A2>You should edit</A2>
-                <A3 />
+                <A0>One</A0>
+                <A1>Two</A1>
+                <A2>Three</A2>
+                <A3>Four</A3>
             </answers>
         </category_1>
         <category_2>
@@ -66,7 +66,7 @@
                 <M16 />
             </messages>
             <answers>
-                <A0>This2</A0>
+                <A0>Five</A0>
                 <A1 />
                 <A2 />
                 <A3 />
