@@ -38,9 +38,9 @@
     <Subset_1>
       <ID>1</ID>
       <Name>2</Name>
-      <LastUpdate />
-      <Modality />
-      <Format />
+      <LastUpdate>3</LastUpdate>
+      <Modality>4</Modality>
+      <Format>5</Format>
       <Size />
       <Parent />
       <Purpose />
@@ -49,33 +49,5 @@
       <Modsys />
       <Features />
     </Subset_1>
-    <Subset_123123>
-      <ID>123123</ID>
-      <Name>123123123</Name>
-      <LastUpdate />
-      <Modality />
-      <Format />
-      <Size />
-      <Parent />
-      <Purpose />
-      <Link />
-      <Covmat />
-      <Modsys />
-      <Features />
-    </Subset_123123>
-    <Subset_123123123123123123123>
-      <ID>123123123123123123123</ID>
-      <Name>12312333333333333333</Name>
-      <LastUpdate />
-      <Modality />
-      <Format />
-      <Size />
-      <Parent />
-      <Purpose />
-      <Link />
-      <Covmat />
-      <Modsys />
-      <Features />
-    </Subset_123123123123123123123>
   </Subset_Feature_Dataset>
 </root>
