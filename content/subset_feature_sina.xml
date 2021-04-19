@@ -47,7 +47,29 @@
       <Link />
       <Covmat />
       <Modsys />
-      <Features />
+      <Features>
+        <Feature_1>
+          <ID>1</ID>
+          <Subset>1</Subset>
+          <Introduction>2</Introduction>
+          <Name>3</Name>
+          <Values>4</Values>
+          <Meaning_NA_NULL_NONE_OTHER>5</Meaning_NA_NULL_NONE_OTHER>
+          <Meaning_Zero>6</Meaning_Zero>
+          <Meaning_BlankVoid />
+          <Sparsity />
+          <Mean />
+          <Std />
+          <Modality />
+          <Median />
+          <IQR />
+          <ParentIDs />
+          <Unit />
+          <Definition />
+          <Purpose />
+          <Encoding />
+        </Feature_1>
+      </Features>
     </Subset_1>
   </Subset_Feature_Dataset>
 </root>
