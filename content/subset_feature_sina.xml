@@ -71,5 +71,19 @@
         </Feature_1>
       </Features>
     </Subset_1>
+    <Subset_11>
+      <ID>11</ID>
+      <Name>22</Name>
+      <LastUpdate>33</LastUpdate>
+      <Modality>44</Modality>
+      <Format>55</Format>
+      <Size>66</Size>
+      <Parent>77</Parent>
+      <Purpose>88</Purpose>
+      <Link>99</Link>
+      <Covmat>1010</Covmat>
+      <Modsys>1111</Modsys>
+      <Features />
+    </Subset_11>
   </Subset_Feature_Dataset>
 </root>
