@@ -35,22 +35,22 @@
     <Encoding>State whether the feature is encoded and what the mapping is.</Encoding>
   </Feature_Questions>
   <Subset_Feature_Dataset>
-    <Subset_1>
-      <ID>1</ID>
-      <Name>Test</Name>
-      <LastUpdate>3</LastUpdate>
-      <Modality>4</Modality>
-      <Format>5</Format>
-      <Size>6</Size>
-      <Parent>7</Parent>
-      <Purpose>8</Purpose>
-      <Link>9</Link>
-      <Covmat>10</Covmat>
-      <Modsys>11</Modsys>
+    <Subset_11>
+      <ID>11</ID>
+      <Name>22</Name>
+      <LastUpdate>33</LastUpdate>
+      <Modality>44</Modality>
+      <Format>55</Format>
+      <Size>66</Size>
+      <Parent>77</Parent>
+      <Purpose>88</Purpose>
+      <Link>99</Link>
+      <Covmat>1010</Covmat>
+      <Modsys>1111</Modsys>
       <Features>
         <Feature_1>
           <ID>1</ID>
-          <Subset>1</Subset>
+          <Subset>11</Subset>
           <Introduction>2</Introduction>
           <Name>3</Name>
           <Values>4</Values>
@@ -70,20 +70,6 @@
           <Encoding>18</Encoding>
         </Feature_1>
       </Features>
-    </Subset_1>
-    <Subset_11>
-      <ID>11</ID>
-      <Name>22</Name>
-      <LastUpdate>33</LastUpdate>
-      <Modality>44</Modality>
-      <Format>55</Format>
-      <Size>66</Size>
-      <Parent>77</Parent>
-      <Purpose>88</Purpose>
-      <Link>99</Link>
-      <Covmat>1010</Covmat>
-      <Modsys>1111</Modsys>
-      <Features />
     </Subset_11>
   </Subset_Feature_Dataset>
 </root>
