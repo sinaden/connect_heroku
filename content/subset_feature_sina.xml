@@ -69,6 +69,27 @@
           <Purpose>17</Purpose>
           <Encoding>18</Encoding>
         </Feature_1>
+        <Feature_2>
+          <ID>2</ID>
+          <Subset>11</Subset>
+          <Introduction>3</Introduction>
+          <Name>4</Name>
+          <Values>5</Values>
+          <Meaning_NA_NULL_NONE_OTHER>6</Meaning_NA_NULL_NONE_OTHER>
+          <Meaning_Zero>7</Meaning_Zero>
+          <Meaning_BlankVoid>8</Meaning_BlankVoid>
+          <Sparsity>9</Sparsity>
+          <Mean>10</Mean>
+          <Std>11</Std>
+          <Modality>12</Modality>
+          <Median>13</Median>
+          <IQR>14</IQR>
+          <ParentIDs>15</ParentIDs>
+          <Unit>16</Unit>
+          <Definition>17</Definition>
+          <Purpose>18</Purpose>
+          <Encoding>19</Encoding>
+        </Feature_2>
       </Features>
     </Subset_11>
   </Subset_Feature_Dataset>
